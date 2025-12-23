@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+:octocat:↕️💠️🌐️ The official source repository for the website of the GitHubby project, a browser extension that improves the experience of GitHub by setting limits by GitHub and making improvements.
